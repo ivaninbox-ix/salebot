@@ -2559,6 +2559,7 @@ a {
     width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
+/*     height: 62px; */
     border: 1px solid #000;
     background: #fff;
     color: #111111;
@@ -2725,5 +2726,3 @@ __select::-webkit-scrollbar-track {
 }
 
 
-
-/*# sourceMappingURL=mini_landing_page.css-748b9683f83180e41fa5324c1efaebbe8c2406b95cbec70d7aa1d89943db162b.map */
