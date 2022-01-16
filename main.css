@@ -1,17 +1,97 @@
-html .sb_block .sb_btn {
-  width: 440px;
-  max-height: 30px;
-  border: 1px solid red;
-}
+@media screen and (min-width: 640px) {
+  html .sb_block .sb_btn {
+    width: 440px;
+    max-height: 30px;
+    border: 1px solid red;
+  }
 
-.salebot_tilda_block .minilanding-inputs-box {
-  width: 484px;
-}
+  .salebot_tilda_block .minilanding-inputs-box {
+    width: 484px;
+  }
 
-#user-data-form .justify-content-center .wh-form-field .form-control {
-  height: 64px;
-}
+  #user-data-form .justify-content-center .wh-form-field .form-control {
+    height: 64px;
+    font-size: 27px;
+  }
 
-input::-webkit-input-placeholder {
-  font-size: 27px;
+  input::-webkit-input-placeholder {
+    font-size: 27px;
+  }
+
+  .select_mask_code {
+    margin-right: 4px;
+    margin-top: 12px;
+    margin-left: 10px;
+    white-space: nowrap;
+    font-size: 27px;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 640px) {
+  html .sb_block .sb_btn {
+    width: 389px;
+    max-height: 30px;
+    border: 1px solid red;
+  }
+
+  .salebot_tilda_block .minilanding-inputs-box {
+    width: 433px;
+  }
+
+  input::-webkit-input-placeholder {
+    font-size: 21px;
+  }
+
+  #user-data-form .justify-content-center .wh-form-field .form-control {
+    height: 64px;
+    font-size: 21px;
+  }
+
+  input::-webkit-input-placeholder {
+    font-size: 21px;
+  }
+
+  .select_mask_code {
+    margin-right: 4px;
+    margin-top: 13.48px;
+    white-space: nowrap;
+    font-size: 21px;
+  }
+}
+@media screen and (min-width: 220px) and (max-width: 480px) {
+  html .sb_block .sb_btn {
+    width: 256px;
+    max-height: 30px;
+    border: 1px solid red;
+  }
+
+  .salebot_tilda_block .minilanding-inputs-box {
+    width: 300px;
+  }
+
+  input::-webkit-input-placeholder {
+    font-size: 21px;
+  }
+
+  #user-data-form .justify-content-center .wh-form-field .form-control {
+    height: 37px;
+    font-size: 21px;
+  }
+
+  input::-webkit-input-placeholder {
+    font-size: 21px;
+  }
+
+  .select_mask_code {
+    margin-right: 4px;
+    white-space: nowrap;
+    font-size: 21px;
+  }
+
+  .select-mask {
+    height: 35px;
+  }
+
+  .select-mask__trigger * {
+    margin: -1px 2pxs;
+  }
 }
