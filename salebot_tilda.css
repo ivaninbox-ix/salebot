@@ -2577,12 +2577,12 @@ a {
 
 .select_mask_code {
         margin-right: 4px;
-        margin-top: 12.48px;
+        margin-top: 17px;
         white-space: nowrap;
 }
 
 .select-mask__trigger * {
-    margin: 12px 2px;
+    margin: 1px 2px;
     line-height: 38px;
 }
 
