@@ -2559,7 +2559,7 @@ a {
     width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
-    height: 62px;
+/*     height: 62px; */
     border: 1px solid #000;
     background: #fff;
     color: #111111;
@@ -2643,7 +2643,8 @@ a {
 
 
 /* line 1867, app/assets/stylesheets/mini_landing_page.scss */
-.select-mask__select::-webkit-scrollbar-track {
+
+__select::-webkit-scrollbar-track {
     background-color: transparent;
 }
 
@@ -2724,10 +2725,6 @@ a {
     border: 1px solid transparent;
 }
 
-@media screen and (min-width: 220px) and (max-width:480px) {
-.select-mask{
-    	height: 35px;
-    }}
 
 
 /*# sourceMappingURL=mini_landing_page.css-748b9683f83180e41fa5324c1efaebbe8c2406b95cbec70d7aa1d89943db162b.map */
