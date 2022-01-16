@@ -2575,6 +2575,12 @@ a {
     border-right: none;
 }
 
+.select_mask_code {
+        margin-right: 4px;
+        margin-top: 12.48px;
+        white-space: nowrap;
+}
+
 /* line 1826, app/assets/stylesheets/mini_landing_page.scss */
 .select-mask__trigger {
     height: 100%;
