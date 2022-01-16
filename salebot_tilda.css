@@ -2590,10 +2590,7 @@ a {
 }
 
 /* line 1830, app/assets/stylesheets/mini_landing_page.scss */
-.select-mask__trigger * {
-    margin: 0 2px;
-    line-height: 38px;
-}
+
 
 /* line 1835, app/assets/stylesheets/mini_landing_page.scss */
 .select-mask__select {
