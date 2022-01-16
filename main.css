@@ -1,0 +1,17 @@
+html .sb_block .sb_btn {
+  width: 440px;
+  max-height: 30px;
+  border: 1px solid red;
+}
+
+.salebot_tilda_block .minilanding-inputs-box {
+  width: 484px;
+}
+
+#user-data-form .justify-content-center .wh-form-field .form-control {
+  height: 64px;
+}
+
+input::-webkit-input-placeholder {
+  font-size: 27px;
+}
