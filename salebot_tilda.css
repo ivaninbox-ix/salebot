@@ -284,7 +284,6 @@ html .sb_block img {
 html .sb_block .sb_btn {
     box-sizing: content-box;
     display: inline-flex;
-    width: 440px;
     max-height: 30px;
     border-radius: 15px;
     margin: 12px;
@@ -660,7 +659,6 @@ body, html {
     display: block;
     width: 100%;
     padding: 0 12px;
-    font-size: 27px;
     line-height: 38px;
     color: black;
     background-color: #fff;
