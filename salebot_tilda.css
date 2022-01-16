@@ -2724,4 +2724,10 @@ a {
     border: 1px solid transparent;
 }
 
+@media screen and (min-width: 220px) and (max-width:480px) {
+.select-mask{
+    	height: 35px;
+    }}
+
+
 /*# sourceMappingURL=mini_landing_page.css-748b9683f83180e41fa5324c1efaebbe8c2406b95cbec70d7aa1d89943db162b.map */
