@@ -2581,6 +2581,11 @@ a {
         white-space: nowrap;
 }
 
+.select-mask__trigger * {
+    margin: 12px 2px;
+    line-height: 38px;
+}
+
 /* line 1826, app/assets/stylesheets/mini_landing_page.scss */
 .select-mask__trigger {
     height: 100%;
