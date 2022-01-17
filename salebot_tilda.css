@@ -2723,5 +2723,7 @@ __select::-webkit-scrollbar-track {
 
 
 *{
-    font-family: 'Montserrat', sans-serif;}
+    font-family: 'Montserrat', sans-serif;
+    border:none
+}
 
