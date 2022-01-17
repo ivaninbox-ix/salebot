@@ -677,11 +677,13 @@ body, html {
 
 input.phone_input{
     border: 1px solid black;
+    outline:none;
     border-left: none;
 }
 
 input.email_input {
     border: 1px solid black;
+    outline:none;
 
 }
 
